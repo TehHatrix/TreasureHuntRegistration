@@ -4,4 +4,5 @@ The following Project was prepared as a part of the Web programming class at the
 
 ## Stack Used
 Vanilla HTML, CSS, Javascript\
-Bootstrap
+Bootstrap\
+MySQL
